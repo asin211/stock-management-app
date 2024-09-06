@@ -1,0 +1,17 @@
+StockManagingApp/
+├── public/
+│   └── index.html  # Entry point for the single-page application
+├── src/
+│   ├── components/
+│   │   ├── CashBalance.js   # Component for displaying and managing cash balance
+│   │   ├── MyStockList.js   # Component for displaying user-owned stocks
+│   │   ├── StockForm.js     # Component for buying and selling stocks
+│   │   └── StockList.js     # Component for displaying available stocks
+│   ├── services/
+│   │   └── stockApiServices.js  # Service for interacting with stock API
+│   ├── App.css  # Global styles for the application
+│   ├── App.js    # Main application entry point
+│   └── index.js  # Entry point for bundling and loading React application
+├── .env        # Environment variables file for sensitive data
+├── .gitignore  # File specifying files to ignore in Git version control
+└── README.md  # Project documentation and instructions
