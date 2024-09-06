@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/stock-management-app/static/css/main.9d6ec2b0.css",
-    "main.js": "/stock-management-app/static/js/main.1f7ea672.js",
+    "main.js": "/stock-management-app/static/js/main.718193cf.js",
     "index.html": "/stock-management-app/index.html",
     "main.9d6ec2b0.css.map": "/stock-management-app/static/css/main.9d6ec2b0.css.map",
-    "main.1f7ea672.js.map": "/stock-management-app/static/js/main.1f7ea672.js.map"
+    "main.718193cf.js.map": "/stock-management-app/static/js/main.718193cf.js.map"
   },
   "entrypoints": [
     "static/css/main.9d6ec2b0.css",
-    "static/js/main.1f7ea672.js"
+    "static/js/main.718193cf.js"
   ]
 }
